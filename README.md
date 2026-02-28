@@ -1,6 +1,6 @@
 # SimpleCalc
 
-SimpleCalc is a premium web based calculator application built with Django. It features a modern, glassmorphic user interface designed for both aesthetic appeal and functional clarity.
+SimpleCalc is a simple web based calculator application built with Django. It features a modern, glassmorphic user interface designed for both aesthetic appeal and functional clarity.
 
 ## Technology Stack
 
